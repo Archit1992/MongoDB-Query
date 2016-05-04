@@ -42,7 +42,7 @@ public class CRUDapplication {
 		String userInput = null;
 		while (true) {
 			System.out.println("----------------------------------------------------------------------------------------------");
-			System.out.println("Please give specific input(String/Indexes) for your horrible Operations :- ");
+			System.out.println("Please give specific input(String/Indexes) for your desired Operations :- ");
 			System.out.println("----------------------------------------------------------------------------------------------");
 			
 			System.out.println("Which operation do you want to do ?");
